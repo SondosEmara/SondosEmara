@@ -8,12 +8,12 @@
 
 ### 🧑‍💻 About Me
 
-🏢 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer @ Softec Technologies  
-📍 **Location** &nbsp;&nbsp;&nbsp;&nbsp; El Remaya , Giza, Egypt 🇪🇬  
-💼 **Experience** &nbsp; 3+ years building scalable enterprise systems  
-🔭 **Working on** &nbsp; NormaLive (Logistics Bussiness Domain) 
-🌱 **Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System Design at Scale, CQRS, Event Sourcing & Azure Architecture  
-💬 **Ask me about** .NET Core · SQL · CouchBase · Blazor · React · Angular · RabbitMQ · Microservices  
+🏢 &nbsp;**Full Stack Developer** @ Softec Technologies  
+📍  &nbsp;&nbsp;&nbsp;El Remaya, Giza, Egypt 
+💼 &nbsp;3+ years building scalable enterprise systems  
+🔭 &nbsp;Currently Working On **NormaLive** — Logistics Business Domain  
+🌱 &nbsp;Learning **System Design · CQRS · Event Sourcing · Azure Architecture**  
+💬 &nbsp;Ask me about `.NET Core` `SQL` `CouchBase` `Blazor` `React` `Angular` `RabbitMQ` `Microservices`  
 
 ---
 
