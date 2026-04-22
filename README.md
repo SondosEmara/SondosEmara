@@ -13,7 +13,7 @@
 💼 &nbsp;3+ years building scalable enterprise systems  
 🎓 &nbsp;Graduate of **ITI 9-Month Program** — System Development Track · Software Architecture · Smart Village  
 🔭 &nbsp;Currently Working On **NormaLive** — Logistics Business Domain  
-🌱 &nbsp;Learning **System Design · CQRS · Event Sourcing · Azure Architecture**  
+🌱 &nbsp;Learning **System Design · CQRS · Event Sourcing**  
 💬 &nbsp;Ask me about `.NET Core` `SQL` `CouchBase` `Blazor` `React` `Angular` `RabbitMQ` `Microservices`  
 
 ---
