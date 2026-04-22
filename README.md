@@ -11,6 +11,7 @@
 🏢 &nbsp;**Full Stack Developer** @ Softec Technologies  
 📍  &nbsp;&nbsp;&nbsp;El Remaya, Giza, Egypt                             
 💼 &nbsp;3+ years building scalable enterprise systems  
+🎓 &nbsp;Graduate of **ITI 9-Month Program** — System Development Track · Software Architecture · Smart Village  
 🔭 &nbsp;Currently Working On **NormaLive** — Logistics Business Domain  
 🌱 &nbsp;Learning **System Design · CQRS · Event Sourcing · Azure Architecture**  
 💬 &nbsp;Ask me about `.NET Core` `SQL` `CouchBase` `Blazor` `React` `Angular` `RabbitMQ` `Microservices`  
