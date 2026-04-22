@@ -2,14 +2,6 @@
 
 <h1>Sondos Emara</h1>
 <h3> Full Stack Developer · .NET | React | Blazor | Microservices</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Giza,_Egypt-7C3AED?style=flat&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3+_Years-7C3AED?style=flat&logo=stackover flow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise_Systems-7C3AED?style=flat&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=SondosEmara&label=Profile+Views&color=7C3AED&style=flat" />
-</p>
-
 </div>
 
 ---
@@ -17,13 +9,11 @@
 ### 🧑‍💻 About Me
 
 🏢 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer @ Softec Technologies  
-📍 **Location** &nbsp;&nbsp;&nbsp;&nbsp; Giza, Egypt 🇪🇬  
+📍 **Location** &nbsp;&nbsp;&nbsp;&nbsp; El Remaya , Giza, Egypt 🇪🇬  
 💼 **Experience** &nbsp; 3+ years building scalable enterprise systems  
-🔭 **Working on** &nbsp; NormaLive (Logistics) & SaaedI (Incident Reporting)  
+🔭 **Working on** &nbsp; NormaLive (Logistics Bussiness Domain) 
 🌱 **Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System Design at Scale, CQRS, Event Sourcing & Azure Architecture  
-💬 **Ask me about** .NET Core · Blazor · React · Angular · RabbitMQ · Microservices  
-🥇 **Achievement** &nbsp;1st Place — Software Architecture Track, ITI Intake 44  
-📫 **Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sondos.emara2002@gmail.com
+💬 **Ask me about** .NET Core · SQL · CouchBase · Blazor · React · Angular · RabbitMQ · Microservices  
 
 ---
 
