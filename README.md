@@ -1,8 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sondos+Emara;Senior+Full+Stack+Developer;.NET+%7C+React+%7C+Blazor+Engineer;Clean+Architecture+%26+Microservices)](https://git.io/typing-svg)
+<h1>Sondos Emara</h1>
+<h3> Full Stack Developer · .NET | React | Blazor | Microservices</h3>
 
-<img src="https://komarev.com/ghpvc/?username=SondosEmara&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
+<p>
+  <img src="https://img.shields.io/badge/Location-Giza,_Egypt-7C3AED?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3+_Years-7C3AED?style=flat&logo=stackover flow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise_Systems-7C3AED?style=flat&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=SondosEmara&label=Profile+Views&color=7C3AED&style=flat" />
+</p>
 
 </div>
 
@@ -10,18 +16,14 @@
 
 ### 🧑‍💻 About Me
 
-```typescript
-const sondos: SeniorDeveloper = {
-  role:        "Senior Full Stack Developer @ Softec Technologies",
-  location:    "Giza, Egypt 🇪🇬",
-  experience:  "3+ years building scalable enterprise systems",
-  currentWork: ["NormaLive — Logistics Management", "SaaedI — Incident Reporting"],
-  learning:    "System Design at Scale, CQRS, Event Sourcing & Azure Architecture",
-  askMeAbout:  [".NET Core", "Blazor", "React", "Angular", "RabbitMQ", "Microservices", "Clean Architecture"],
-  achievement: "🥇 1st Place — Software Architecture Track, ITI Intake 44",
-  contact:     "sondos.emara2002@gmail.com",
-};
-```
+🏢 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full Stack Developer @ Softec Technologies  
+📍 **Location** &nbsp;&nbsp;&nbsp;&nbsp; Giza, Egypt 🇪🇬  
+💼 **Experience** &nbsp; 3+ years building scalable enterprise systems  
+🔭 **Working on** &nbsp; NormaLive (Logistics) & SaaedI (Incident Reporting)  
+🌱 **Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; System Design at Scale, CQRS, Event Sourcing & Azure Architecture  
+💬 **Ask me about** .NET Core · Blazor · React · Angular · RabbitMQ · Microservices  
+🥇 **Achievement** &nbsp;1st Place — Software Architecture Track, ITI Intake 44  
+📫 **Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sondos.emara2002@gmail.com
 
 ---
 
